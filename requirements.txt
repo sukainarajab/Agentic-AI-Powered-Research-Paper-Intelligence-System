@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+sentence-transformers
+transformers
+torch
+faiss-cpu
+datasets
+keybert
+pandas
+numpy
+scikit-learn
